@@ -4,6 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices;
 using System.Windows;
+using Flow.Launcher.Plugin;
 using Newtonsoft.Json;
 
 namespace Wox.Plugin.Todos

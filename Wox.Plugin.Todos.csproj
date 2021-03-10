@@ -10,7 +10,7 @@
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-    <OutputPath>Output\Debug\Plugins\Wox.Plugin.Todos</OutputPath>
+    <OutputPath>Output\Debug\Wox.Plugin.Todos</OutputPath>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
@@ -25,6 +25,13 @@
 
   <ItemGroup>
     <PackageReference Include="Flow.Launcher.Plugin" Version="1.4.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Wox.Infrastructure">
+      <HintPath>Wox.DLLs.Old\Wox.Infrastructure.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
   <ItemGroup>
