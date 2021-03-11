@@ -29,8 +29,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="Wox.Infrastructure">
-      <HintPath>Wox.DLLs.Old\Wox.Infrastructure.dll</HintPath>
+    <Reference Include="Flow.Launcher.Infrastructure">
+      <HintPath>Flow.Launcher.Infrastructure.dll</HintPath>
     </Reference>
   </ItemGroup>
 

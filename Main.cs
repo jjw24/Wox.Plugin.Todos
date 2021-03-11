@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Controls;
 using Flow.Launcher.Plugin;
-using Wox.Infrastructure.Storage;
+using Flow.Launcher.Infrastructure.Storage;
 
 namespace Wox.Plugin.Todos
 {
