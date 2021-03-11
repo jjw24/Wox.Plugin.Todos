@@ -9,7 +9,7 @@
     <Grid>
         <TextBox x:Name="Directory" VerticalAlignment="Top" HorizontalAlignment="Left" Height="34" Margin="86,144,0,0" TextWrapping="Wrap" Text="TextBox"  Width="278" IsEnabled="False" FontSize="16" VerticalContentAlignment="Center" MaxLines="1" />
         <Button x:Name="ChooseButton" Content="Choose" HorizontalAlignment="Left" Margin="395,144,0,0" VerticalAlignment="Top" Width="71" Height="34" FontSize="16" Click="ChooseBtn_Click" RenderTransformOrigin="0.44,3.526"/>
-        <Label x:Name="Tips"  Content="* restart Flow may be necessary to take effect." HorizontalAlignment="Left" Margin="73,96,0,0" VerticalAlignment="Top" Width="410" FontSize="16"/>
+        <Label x:Name="Tips"  Content="* You will need to restart Flow for this to take effect." HorizontalAlignment="Left" Margin="73,96,0,0" VerticalAlignment="Top" Width="410" FontSize="16"/>
         <Label x:Name="Title" Content="Folder you choose will be used to store data file" HorizontalAlignment="Left" Margin="73,60,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" FontSize="16" FontWeight="Bold"/>
 
     </Grid>

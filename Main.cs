@@ -145,7 +145,7 @@ namespace Wox.Plugin.Todos
 
         public Control CreateSettingPanel()
         {
-            return new FilePathSetting(_setting);
+            return new FilePathSetting(_setting, _storage);
         }
 
         #region Utils
