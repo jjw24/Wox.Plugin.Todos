@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using System.IO;
+using Flow.Launcher.Plugin;
 
 namespace Wox.Plugin.Todos
 {
