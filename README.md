@@ -1,4 +1,7 @@
-﻿This is a port of the Wox plugin Wox.Plugin.Todos created by caoyue (@caoyue).
+## Plugin is now maintained at https://github.com/Or1g3n/Flow.Launcher.Plugin.Todos
+-------------------
+
+ This is a port of the Wox plugin Wox.Plugin.Todos created by caoyue (@caoyue).
 
 This port is intended to be used for [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher). It will not work for Wox.
 
